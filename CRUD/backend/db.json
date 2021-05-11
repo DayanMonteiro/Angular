@@ -14,6 +14,11 @@
       "id": 3,
       "name": "Palheta",
       "price": 5.89
+    },
+    {
+      "name": "Violão Epiphone Ej200CE",
+      "price": "4200.00",
+      "id": 4
     }
   ]
 }
