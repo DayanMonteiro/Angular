@@ -16,8 +16,8 @@ export class ProductRead2Component implements AfterViewInit {
   @ViewChild(MatTable) table!: MatTable<Product>;
   dataSource: ProductRead2DataSource;
 
-  /** Columns displayed in the table. Columns IDs can be added, removed, or reordered. */
-  displayedColumns = ['id', 'name'];
+  /** os itens do cabeçalho das colunas da aba de produtos*/
+  displayedColumns = ['id', 'name', 'price'];
 
   constructor() {
     this.dataSource = new ProductRead2DataSource();
