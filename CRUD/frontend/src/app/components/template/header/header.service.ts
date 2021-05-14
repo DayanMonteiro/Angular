@@ -20,7 +20,7 @@ export class HeaderService {
     return this._headerData.value
   }
 
-  set HeaderData(headerData: HeaderData) {
+  set headerData(headerData: HeaderData) {
     this._headerData.next(headerData)
   }
 }
