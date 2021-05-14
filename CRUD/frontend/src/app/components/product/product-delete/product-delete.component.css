@@ -8,10 +8,10 @@ button {
     margin: 20px 15px 0px 0px;
 }
 
-.button-color__atualizar{
-    background-color: #fdcb6e;
+.button-color__delete{
+    background-color: #d63031;
 }
 
-.button-color__deletar {
-    background-color: #d63031;
+.button-color__cancel {
+    background-color: #fdcb6e;
 }
