@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "Guitarra Gibson Les Paul",
-      "price": 15000.99
+      "name": "Guitarra Gibson Les Paul Standart",
+      "price": "15500.99"
     },
     {
       "id": 2,
